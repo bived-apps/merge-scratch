@@ -122,3 +122,5 @@ An advisor has no supervisory powers. Qualifications do not authorize work, team
 
 Agents work on the branch **`bived`** by pull request; `main` is the template people copy and only the owner merges
 into it. Start the coordinator with the prompt in `HANDOFF.md › Running it`. MIT licence.
+
+Merge-tool test, 2026-11-15: this line comes from a child coordinator session.
